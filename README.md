@@ -22,6 +22,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikhil18207&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://www.google-analytics.com/collect?v=1&t=event&tid=G-XXXXXXXXXX&cid=555&ec=GitHub&ea=ProfileVisit&dp=%2Fgithub%2FNikhil18207&dt=GitHubProfile" width="1" height="1" />
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil18207&theme=react-dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikhil18207&label=Profile%20Views&color=blue&style=flat)
