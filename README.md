@@ -24,7 +24,8 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil18207&theme=react-dark)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Nikhil18207.Nikhil18207)
+![Profile Views](https://komarev.com/ghpvc/?username=Nikhil18207&label=Profile%20Views&color=blue&style=flat)
+
 
 
 
