@@ -19,7 +19,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
 [![](https://visitcount.itsvg.in/api?id=Nikhil18207&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://www.google-analytics.com/collect?v=1&t=event&tid=G-XXXXXXXXXX&cid=555&ec=GitHub&ea=ProfileVisit&dp=%2Fgithub%2FNikhil18207&dt=GitHubProfile" width="1" height="1" />
