@@ -25,10 +25,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil18207&theme=radical&hide_border=false)
 
 
-## 📊 GitHub Stats
-![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nikhil18207&theme=radical&layout=compact)
-
-
 
 
 
