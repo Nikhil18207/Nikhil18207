@@ -21,14 +21,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikhil18207&label=Profile%20Views&color=blue&style=flat)
 
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18207&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18207&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Streak](https://streak-stats.demolab.com?user=Nikhil18207&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil18207&theme=radical)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18207&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18207&layout=compact&theme=radical)
 
 
 
