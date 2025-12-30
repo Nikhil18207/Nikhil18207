@@ -24,11 +24,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18207&theme=radical&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18207&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil18207&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Nikhil18207&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18207&theme=radical&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18207&layout=compact&theme=radical)
 
 
 
