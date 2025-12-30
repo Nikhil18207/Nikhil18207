@@ -23,13 +23,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18207&show_icons=true&theme=radical&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil18207&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil18207&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil18207&show_icons=true&theme=radical&cache_seconds=1800&show=prs_merged,prs_merged_percentage)
+![GitHub Stats](https://github-readme-stats.anuraghazra.io/api?username=Nikhil18207&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.anuraghazra.io/api/top-langs/?username=Nikhil18207&layout=compact&theme=radical)
 
 
 
