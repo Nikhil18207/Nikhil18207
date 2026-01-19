@@ -22,7 +22,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nikhil18207&label=Profile%20Views&color=blue&style=flat)
 
 ## 📊 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nikhil18207" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nikhil18207)](https://git.io/streak-stats)
 
 
 
